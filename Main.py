@@ -1,2 +1,3 @@
-print ("oi mundo")
-print("teu cú")
+def main(msg)
+    print msg
+    main"Chupa que é de uva"
